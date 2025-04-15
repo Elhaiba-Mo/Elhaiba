@@ -13,17 +13,21 @@ I have a degree in Translation and a Master’s Degree in Teaching. I am a dedic
 
 
 <p align="left">
-<!-- Icon-only Python -->
-<a href="https://www.python.org/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32" height="32" alt="Python" />
+<!-- Icon-only Power BI -->
+<a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="32" height="32" alt="Power BI" />
 </a>
 
-<!-- Icon-only MySQL -->
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="32" height="32" alt="MySQL" />
+<!-- Icon-only Excel -->
+<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" width="32" height="32" alt="Excel" />
 </a>
 
-</p>
+<!-- Icon-only Tableau -->
+<a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="32" height="32" alt="Tableau" />
+</a>
+
 
 
 </p>
