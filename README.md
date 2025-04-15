@@ -13,15 +13,17 @@ I have a degree in Translation and a Master’s Degree in Teaching. I am a dedic
 
 
 <p align="left">
-<!-- Python -->
-<a href="https://www.python.org/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32" height="32" alt="Python" />
-</a>
+### 🛠️ Tools & Technologies
 
-<!-- MySQL -->
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="32" height="32" alt="MySQL" />
-</a>
+<p align="left">
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32" height="32" alt="Python" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="32" height="32" alt="MySQL" />
+  </a>
+</p>
+
 
 </p>
 <!-- Power BI -->
