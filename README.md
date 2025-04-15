@@ -26,18 +26,19 @@ I have a degree in Translation and a Master’s Degree in Teaching. I am a dedic
 
 <!-- Power BI -->
 <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="32" height="32" alt="Power BI" />
+  <img src="https://img.icons8.com/color/48/power-bi.png" width="32" height="32" alt="Power BI" />
 </a>
 
 <!-- Tableau -->
 <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="32" height="32" alt="Tableau" />
+  <img src="https://img.icons8.com/color/48/tableau-software.png" width="32" height="32" alt="Tableau" />
 </a>
 
 <!-- Excel -->
 <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" width="32" height="32" alt="Excel" />
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="32" height="32" alt="Excel" />
 </a>
+
 
 
 
